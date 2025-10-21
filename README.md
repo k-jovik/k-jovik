@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**k-jovik/k-jovik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently diving into **React** and working on building hands-on projects to deepen my skills.  
+My main goal for now is to create a **messaging web app**, though I know I’m still far from it — that’s part of the learning journey!  
 
-Here are some ideas to get you started:
+I also have some **basic knowledge of Spring Boot**, and I’m eager to learn more about backend development and everything that goes into building full-stack applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Enthusiastic about creating projects, experimenting with new technologies, and improving my skills step by step.  
+
+### Currently learning:
+- React (core concepts, state management, hooks)  
+- Full-stack development (Spring Boot + REST APIs)  
+- Hands-on project building: messaging apps, utilities, and more
+
+📫 Reach me if you want to discuss React, backend development, or project ideas!
