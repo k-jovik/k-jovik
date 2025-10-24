@@ -8,8 +8,8 @@ I also have some **basic knowledge of Spring Boot**, and I’m eager to learn mo
 💡 Enthusiastic about creating projects, experimenting with new technologies, and improving my skills step by step.  
 
 ### Currently learning:
-- React (core concepts, state management, hooks)  
+- React 
 - Full-stack development (Spring Boot + REST APIs)  
 - Hands-on project building: messaging apps, utilities, and more
 
-📫 Reach me if you want to discuss React, backend development, or project ideas!
+
