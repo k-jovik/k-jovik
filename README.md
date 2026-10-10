@@ -1,15 +1,23 @@
-## Hi there 👋
+Full-stack developer. Java, Spring, Postgres, React, TypeScript,
+Docker, Kubernetes.
 
-I’m currently diving into **React** and working on building hands-on projects to deepen my skills.  
-My main goal for now is to create a **messaging web app**, though I know I’m still far from it — that’s part of the learning journey!  
+I built a [multi-tenant expense platform](https://github.com/k-jovik/multi-tenant-expense-platform)
+with a double-entry ledger, append-only reversals, and Postgres RLS
+for tenant isolation. Spring Boot backend, React frontend with TanStack
+Query for server state. [Live demo](https://frontend-production-7fb2.up.railway.app).
 
-I also have some **basic knowledge of Spring Boot**, and I’m eager to learn more about backend development and everything that goes into building full-stack applications.  
+Built a [Kubernetes-deployed Todo stack](https://github.com/k-jovik/k8s-todo-app)
+— Postgres StatefulSet, backend and frontend Deployments, NGINX Ingress,
+and a GitHub Actions pipeline that builds images and pushes them to
+Docker Hub.
 
-💡 Enthusiastic about creating projects, experimenting with new technologies, and improving my skills step by step.  
+Co-built a [microservices crypto tracker](https://github.com/TaseZmaj/cryptocurreny-market-tracker-app)
+with two teammates — I scaffolded the Java/Spring backend and set up
+the Docker Compose stack. The architecture includes a React frontend
+and Python services for technical analysis and LSTM-based price
+prediction.
 
-### Currently learning:
-- React 
-- Full-stack development (Spring Boot + REST APIs)  
-- Hands-on project building: messaging apps, utilities, and more
+Built and deployed a portfolio site for a client — domain setup,
+hosting, and a contact form integrated with an email service.
 
-
+kristijanjovik@gmail.com 
