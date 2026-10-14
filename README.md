@@ -11,13 +11,13 @@ Built a [Kubernetes-deployed Todo stack](https://github.com/k-jovik/k8s-todo-app
 and a GitHub Actions pipeline that builds images and pushes them to
 Docker Hub.
 
-Co-built a [microservices crypto tracker](https://github.com/TaseZmaj/cryptocurreny-market-tracker-app)
-with two teammates — I scaffolded the Java/Spring backend and set up
-the Docker Compose stack. The architecture includes a React frontend
-and Python services for technical analysis and LSTM-based price
-prediction.
+Co-built a [microservices crypto tracker](https://github.com/k-jovik/crypto-microservices-tracker)
+with two teammates — I built the Spring Boot backend and the Python
+FastAPI microservice for LSTM price prediction, and containerized the
+full stack with Docker Compose. The frontend is React, with MongoDB as
+the data layer.
 
 Built and deployed a portfolio site for a client — domain setup,
 hosting, and a contact form integrated with an email service.
 
-kristijanjovik@gmail.com 
+kristijanjovik@gmail.com · [LinkedIn](https://www.linkedin.com/in/kristijan-jovic-6a503542a/)
